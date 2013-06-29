@@ -1,0 +1,1 @@
+web: gunicorn webcorn.wsgi
